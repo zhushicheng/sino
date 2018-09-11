@@ -1,0 +1,23 @@
+{
+  "current":2,
+  "total":2,
+  "data":{
+    "list":[
+      {
+        "title":"汉族",
+        "english":"hanzu",
+        "id":1
+      },
+      {
+        "title":"蒙古族",
+        "english":"mengguzu",
+        "id":2
+      },
+      {
+        "title":"回族",
+        "english":"huizu",
+        "id":2
+      }
+    ]
+  }
+}

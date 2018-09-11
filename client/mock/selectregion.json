@@ -1,0 +1,23 @@
+{
+  "current":2,
+  "total":2,
+  "data":{
+    "list":[
+      {
+        "title":"管理员",
+        "english":"guanliyuan",
+        "id":1
+      },
+      {
+        "title":"普通员工",
+        "english":"putongyuangong",
+        "id":2
+      },
+      {
+        "title":"员工",
+        "english":"yuangong",
+        "id":3
+      }
+    ]
+  }
+}

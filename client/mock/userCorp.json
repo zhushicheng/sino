@@ -1,0 +1,36 @@
+{
+  "current":2,
+  "total":2,
+  "list":[
+    {
+      "title":"总公司",
+      "english":"guanganshi",
+      "id":1
+    },
+    {
+      "title":"巴中分公司",
+      "english":"bazhongfengongsi",
+      "id":2
+    },
+    {
+      "title":"眉山分公司",
+      "english":"meishanshi",
+      "id":3
+    },
+    {
+      "title":"达州分公司",
+      "english":"dazhoushi",
+      "id":4
+    },
+    {
+      "title":"乐山分公司",
+      "english":"leshanshi",
+      "id":5
+    },
+    {
+      "title":"宜宾分公司",
+      "english":"yibinshi",
+      "id":6
+    }
+  ]
+}

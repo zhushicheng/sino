@@ -1,0 +1,443 @@
+[
+  {
+    "id":1,
+    "label":"首页",
+    "name":"main",
+    "icon":"sino-shouye_shouye",
+    "haveChild":false,
+    "path":"/main",
+    "children":null
+  },
+  {
+    "id":2,
+    "label":"快捷功能",
+    "name":"shortcuts",
+    "path":"",
+    "icon":"sino-diqu",
+    "haveChild":true,
+    "children":null
+  },
+  {
+    "id":3,
+    "label":"系统管理",
+    "icon":"sino-i",
+    "haveChild":true,
+    "name":"systemManage",
+    "labelname":"系统管理",
+    "path":"",
+    "children":[
+      {
+        "id":31,
+        "label":"用户管理",
+        "name":"userManage",
+        "path":"/userManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":32,
+        "label":"角色管理",
+        "name":"roleManage",
+        "path":"/roleManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":33,
+        "label":"机构管理",
+        "name":"organizeManage",
+        "path":"/organizeManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":34,
+        "label":"功能管理",
+        "name":"functionManage",
+        "path":"/functionManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":35,
+        "label":"权限管理",
+        "name":"authManage",
+        "path":"/authManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      }
+    ]
+  },
+  {
+    "id":4,
+    "label":"系统基础信息",
+    "icon":"sino-sanren",
+    "path":"",
+    "labelname":"系统基础信息",
+    "name":"systemInform",
+    "haveChild":true,
+    "children":[
+      {
+        "id":41,
+        "label":"数据字典",
+        "name":"dictionary",
+        "path":"/dictionary",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":42,
+        "label":"地区管理",
+        "name":"areaManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "path":"/areaManage",
+        "children":null
+      }
+    ]
+  },
+  {
+    "id":74,
+    "label":"系统监控",
+    "icon":"sino-sanren",
+    "path":"",
+    "labelname":"系统监控",
+    "name":"sysMon",
+    "haveChild":true,
+    "children":[
+      {
+        "id":741,
+        "label":"流程配置",
+        "name":"procConf",
+        "path":"/procConf",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":745,
+        "label":"流程监管",
+        "name":"procReg",
+        "path":"/procReg",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":742,
+        "label":"系统消息",
+        "name":"sysMess",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "path":"/sysMess",
+        "children":null
+      },
+      {
+        "id":743,
+        "label":"系统公告",
+        "name":"sysNotice",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "path":"/sysNotice",
+        "children":null
+      },
+      {
+        "id":744,
+        "label":"邮件管理",
+        "name":"emailManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "path":"/emailManage",
+        "children":null
+      }
+    ]
+  },
+  {
+    "id":5,
+    "label":"开发辅助",
+    "icon":"sino-sanren",
+    "labelname":"开发辅助",
+    "path":"",
+    "name":"development",
+    "haveChild":true,
+    "children":[
+      {
+        "id":51,
+        "label":"词根管理",
+        "name":"rootManage",
+        "path":"/rootManage",
+        "icon":"sino-iconfontyuan",
+        "haveChild":false,
+        "children":null
+      },
+      {
+        "id":52,
+        "label":"数据结构管理",
+        "path":"/dataStructure",
+        "name":"dataStructure",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":53,
+        "label":"前端组件库",
+        "path":"/component",
+        "name":"component",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":54,
+        "label":"样本程序库",
+        "name":"sampleLibrary",
+        "path":"/sampleLibrary",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":55,
+        "name":"relationManage",
+        "label":"字段血缘关系管理",
+        "path":"/relationManage",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      }
+    ]
+  },
+  {
+    "id":2,
+    "label":"销售线索",
+    "name":"leads",
+    "icon":"sino-shouye_shouye",
+    "haveChild":false,
+    "path":"/leads",
+    "children":null
+  },
+  {
+    "id":345,
+    "label":"客户商务合同",
+    "name":"custBusCon",
+    "icon":"sino-i",
+    "haveChild":false,
+    "path":"/custBusCon",
+    "children":null
+  },
+  {
+    "id":346,
+    "label":"商务合同审核",
+    "name":"busConEav",
+    "icon":"sino-i",
+    "haveChild":false,
+    "path":"/busConEav",
+    "children":null
+  },
+  {
+    "id":3,
+    "label":"客户管理",
+    "icon":"sino-i",
+    "haveChild":true,
+    "name":"custManage",
+    "labelname":"客户管理",
+    "path":"",
+    "children":[
+      {
+        "id":31,
+        "label":"客户基本信息",
+        "name":"custInfo",
+        "path":"/custInfo",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":32,
+        "label":"成本中心管理",
+        "name":"costCenter",
+        "path":"/costCenter",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":33,
+        "label":"服务协议",
+        "name":"serveProt",
+        "path":"/serveProt",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":34,
+        "label":"客户发票信息管理",
+        "name":"invInfo",
+        "path":"/invInfo",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":35,
+        "label":"客户银行账户",
+        "name":"bankAcct",
+        "path":"/bankAcct",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      },
+      {
+        "id":36,
+        "label":"客户邮寄地址",
+        "name":"sendAddr",
+        "path":"/sendAddr",
+        "haveChild":false,
+        "icon":"sino-iconfontyuan",
+        "children":null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "订单办理",
+    "icon": "sino-i",
+    "haveChild": true,
+    "name": "orderhandle",
+    "labelname": "订单办理",
+    "path": "",
+    "children": [
+      {
+        "id": 333,
+        "label": "手续办理",
+        "name": "orderhandle",
+        "path": "/orderhandle",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "label": "供应商管理",
+    "icon": "sino-i",
+    "haveChild": true,
+    "name": "suppManage",
+    "labelname": "供应商管理",
+    "path": "",
+    "children": [
+      {
+        "id": 444,
+        "label": "供应商信息",
+        "name": "suppInfo",
+        "path": "/suppInfo",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      },
+      {
+        "id": 446,
+        "label": "供应商联系人",
+        "name": "suppCont",
+        "path": "/suppCont",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      },
+      {
+        "id": 445,
+        "label": "供应商银行账户",
+        "name": "suppAcct",
+        "path": "/suppAcct",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      },
+      {
+        "id": 447,
+        "label": "供应商邮寄地址",
+        "name": "suppSendAddr",
+        "path": "/suppSendAddr",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      },
+      {
+        "id": 448,
+        "label": "供应商增值税发票",
+        "name": "suppVatInv",
+        "path": "/suppVatInv",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      },
+      {
+        "id": 449,
+        "label": "供应商离职原因",
+        "name": "suppDimReason",
+        "path": "/suppDimReason",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "label": "薪酬管理",
+    "icon": "sino-i",
+    "haveChild": true,
+    "name": "suppManage",
+    "labelname": "供应商管理",
+    "path": "",
+    "children": []
+  },
+  {
+    "id": 7,
+    "label": "产品管理管理",
+    "icon": "sino-i",
+    "haveChild": true,
+    "name": "suppManage",
+    "labelname": "供应商管理",
+    "path": "",
+    "children": []
+  },
+  {
+    "id": 8,
+    "label": "财务管理",
+    "icon": "sino-i",
+    "haveChild": true,
+    "name": "fnncManage",
+    "labelname": "财务管理",
+    "path": "",
+    "children": [
+      {
+        "id": 81,
+        "label": "汇款单发布",
+        "name": "remiPublish",
+        "path": "/remiPublish",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      },
+      {
+        "id": 82,
+        "label": "发票科目配置",
+        "name": "invSubConf",
+        "path": "/invSubConf",
+        "haveChild": false,
+        "icon": "sino-iconfontyuan",
+        "children": null
+      }
+    ]
+  }
+]

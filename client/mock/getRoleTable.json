@@ -1,0 +1,118 @@
+{
+  "status": 0,
+  "data": {
+    "total": 12,
+    "page": 1,
+    "pageSize": 5,
+    "items": [
+      {
+        "id": 1,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 2,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 3,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 4,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 5,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 6,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 7,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 8,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 9,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 10,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 11,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      },
+      {
+        "id": 12,
+        "date": "2016-05-03",
+        "roleName": "系统管理员",
+        "roleType": "业务代表",
+        "roleCode": "ROLECODE_3799729",
+        "roleState": "有效",
+        "corpName": "贵州市人力资源服务有限公司"
+      }
+    ]
+  }
+}

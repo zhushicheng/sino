@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "label": "系统功能菜单",
+    "children": [{
+      "id": 2,
+      "label": "产品管理",
+      "children": [{
+        "id": 9,
+        "label": "产品管理"
+      }]
+    }, {
+      "id": 3,
+      "label": "售前CPM",
+      "children": [{
+        "id": 10,
+        "label": "产品管理"
+      }]
+    }, {
+      "id": 4,
+      "label": "客服管理",
+      "children": [{
+        "id": 11,
+        "label": "销售线索"
+      }, {
+        "id": 12,
+        "label": "投票管理"
+      }, {
+        "id": 13,
+        "label": "雇员撤离"
+      }]
+    }, {
+      "id": 5,
+      "label": "入职体检",
+      "children": [{
+        "id": 14,
+        "label": "产品管理"
+      }]
+    }, {
+      "id": 6,
+      "label": "人身意外保险",
+      "children": [{
+        "id": 15,
+        "label": "产品管理"
+      }]
+    }, {
+      "id": 7,
+      "label": "员工补充医疗保障",
+      "children": [{
+        "id": 16,
+        "label": "产品管理"
+      }]
+    }, {
+      "id": 8,
+      "label": "员工本人补充医疗保健",
+      "children": [{
+        "id": 17,
+        "label": "产品管理"
+      }]
+    }, {
+      "id": 8,
+      "label": "员工子女医疗保健",
+      "children": [{
+        "id": 18,
+        "label": "产品管理"
+      }]
+    }]
+  }
+]

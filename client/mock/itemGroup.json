@@ -1,0 +1,62 @@
+{
+  "current": 1,
+  "total": 2,
+  "data":{
+    "list": [
+      {
+        "title": "山西",
+        "english":"shanxi",
+        "id": 1,
+        "option": [
+          {
+            "title": "太原",
+            "english":"taiyuan",
+            "id": 11
+          },
+          {
+            "title": "大同",
+            "english":"datong",
+            "id": 12
+          },
+          {
+            "title": "忻州",
+            "english":"xinzhou",
+            "id": 13
+          },
+          {
+            "title": "吕梁",
+            "english":"lvliang",
+            "id": 15
+          }
+        ]
+      },
+      {
+        "title": "内蒙古",
+        "english":"neimenggu",
+        "id": 2,
+        "option": [
+          {
+            "title": "呼和浩特",
+            "english":"huhehaote",
+            "id": 21
+          },
+          {
+            "title": "乌兰察布",
+            "english":"wulanchabu",
+            "id": 22
+          },
+          {
+            "title": "包头",
+            "english":"baotou",
+            "id": 23
+          },
+          {
+            "title": "乌海",
+            "english":"wuhai",
+            "id": 24
+          }
+        ]
+      }
+    ]
+  }
+}

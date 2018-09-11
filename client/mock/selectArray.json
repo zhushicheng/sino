@@ -1,0 +1,40 @@
+{
+  "current":1,
+  "total":2,
+  "pageNum": 1,
+  "pageSize": 5,
+  "data": {
+    "list":[
+      {
+        "title":"成都市",
+        "english":"chengdushi",
+        "id":1
+      },
+      {
+        "title":"绵阳市",
+        "english":"mianyangshi",
+        "id":2
+      },
+      {
+        "title":"自贡市",
+        "english":"zigongshi",
+        "id":3
+      },
+      {
+        "title":"泸州市",
+        "english":"luzhoushi",
+        "id":4
+      },
+      {
+        "title":"阿坝藏族羌族自治州",
+        "english":"abazangzuqiangzuzhizhizhou",
+        "id":5
+      },
+      {
+        "title":"凉山彝族自治州",
+        "english":"liangshanyizuzhizhizhou",
+        "id":6
+      }
+    ]
+  }
+}

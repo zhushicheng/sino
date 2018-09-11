@@ -1,0 +1,8 @@
+{
+  "userName":"COCO",
+  "password":"111111",
+  "token": "d3f9a1b06ef9cda3a6213de2c3a29832",
+  "introduction": "我是超级管理员",
+  "avatar":"https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=4004863467,3705958827&fm=58&u_exp_0=3437829852,3372653417&fm_exp_0=86&bpow=438&bpoh=569",
+  "roles": ["admin","user"]
+}

@@ -1,0 +1,32 @@
+#app{width:100%;min-width:1024px;height:auto;background:#f1f5f7;margin:0 auto}
+.header{width:100%;height:70px;min-width:1024px;border-bottom:1px solid #a8a9aa;position:fixed;top:0;left:0;z-index:1;background:-webkit-linear-gradient(left,#1d7cf2,#1ac0fb);background:-o-linear-gradient(right,#1d7cf2,#1ac0fb);background:-moz-linear-gradient(right,#1d7cf2,#1ac0fb);background:-webkit-linear-gradient(left,#1d7cf2,#1ac0fb);border-bottom:1px solid #a8a9aa;-webkit-box-shadow:0 3px 3px 0 rgba(4,0,0,.1);-moz-box-shadow:0 3px 3px 0 rgba(4,0,0,.1);box-shadow:0 3px 3px 0 rgba(4,0,0,.1)}
+.header .icon-spread-h-bar{font-size:28px;font-weight:700;line-height:70px;color:#fff;margin-left:19px;margin-right:21px}
+.header .title{font-size:22px;font-weight:700;line-height:70px;color:#fff}
+.header ul li .iconfont{font-size:24px;color:#fff;line-height:70px}
+.header ul li.login_person{font-size:16px;color:#fff;line-height:70px}
+.header ul li.login_person span{font-size:16px;color:#fff;line-height:70px}
+.header ul li.login_person>i{margin-left:24px;padding-right:15px;border-right:1px solid #18a7e1;cursor:pointer}
+.header ul li .icon-rili{padding-left:15px;padding-right:15px;border-right:1px solid #18a7e1;cursor:pointer}
+.header ul li .icon-unie644{padding-left:15px;padding-right:20px;cursor:pointer}
+.menu{width:218px;height:auto;padding-top:2px;margin-top:70px;background:#fff;border:1px solid #ddd;border-top:none}
+.menu .first_menu{height:100%}
+.menu .first_menu>li{line-height:40px;cursor:pointer}
+.menu .first_menu>li>i{font-size:14px;color:#b5b9be;margin-left:24px;margin-right:10px}
+.menu .first_menu>li>span{font-size:14px;color:#333}
+.menu .first_menu>li .iconTip{float:right;width:12px;height:12px;font-size:12px;color:#399ff2;margin-top:12px;margin-right:16px}
+.menu .first_menu>li .iconSet{float:right;width:14px;height:14px;font-size:14px;color:#399ff2;margin-top:11px;margin-right:15px}
+.menu .first_menu .first_li_active{background:#399ff2}
+.menu .first_menu .first_li_active>i{color:#fff}
+.menu .first_menu .first_li_active>span{color:#fff}
+.menu .first_menu .first_li_active .iconTip{transform:rotate(225deg);margin-top:14px}
+.menu .second_menu{background:#f9f9f9}
+.menu .second_menu>li{line-height:34px}
+.menu .second_menu>li>i{float:left;width:6px;height:6px;margin:14px 5px 14px 53px;border-radius:50%;background:#399ff2}
+.menu .second_menu>li>span{color:#666}
+.menu .second_menu .second_li_active{background:#efefef}
+.menu .second_menu .second_li_active>i{color:#399ff2}
+.menu .second_menu .second_li_active>span{color:#399ff2}
+.menu .third_menu{background:#efefef;overflow:hidden}
+.menu .third_menu>li{height:30px;line-height:30px}
+.menu .third_menu>li>span{float:left;margin:4px 0 4px 71px;width:97px;height:22px;padding-left:13px;line-height:22px;border-radius:5px;color:#666}
+.menu .third_menu .third_li_active>span{background:#399ff2;color:#fff}

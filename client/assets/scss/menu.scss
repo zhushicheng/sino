@@ -1,0 +1,87 @@
+@import "theme";
+.header{width:100%;height: 50px;background: #f9fafc;box-shadow: 0 0 5px #dcdfe5;}
+.common-colspan .common-icon{margin: 14px 0 0 15px;cursor: pointer;color: #5974d9;font-size: 25px;/*width: 28px;height: 19px;background: url("../../assets/img/common-icon.png") no-repeat 0 0;*/}
+.header-right{height: 100%;width: 350px;}
+.header-right .iconfont{font-size: 25px;color: #ccc;display: inline-block;cursor: pointer;height: 40px;}
+//.header-right .sino-badge{margin-top: -7px;}
+.header-right .sino-lingdang-xianxing{font-size: 27px;height: 40px;}
+.mr30{margin-right: 30px;}
+.mt12{margin-top: 12px;}
+.header-dropdown{width:170px;height: 41px;margin-top: 10px;margin-right: 30px;}
+.header-dropdown-link{cursor:pointer}
+.header-dropdown-link .sino-jiantouxia{color: #999;font-size: 18px;margin-top: 7px;}
+.header-dropdown-link .span-user{font-size: 14px;color: #666;margin-right: 20px;float: left;line-height: 30px;}
+.header-dropdown-link .header-user{width: 30px;height: 30px;border-radius: 50%;overflow: hidden;margin-right: 10px;float: left;}
+.header-dropdown-link .header-user img{margin: 0 auto;width: 100%;height: 100%;}
+.content{margin-top: 0 !important;}
+.common-menu-header{width: 100%;height: 50px;background: #5974d9;box-shadow: 0 0 2px #3c446b;}
+.common-menu-header img{margin: 10px 15px;}
+.common-menu-header h3{float:left;line-height: 50px;font-size: 16px;font-weight: bold;background: -webkit-linear-gradient(left, #e4e8f8 , #fff);-webkit-background-clip: text;-webkit-text-fill-color: transparent;transition: all 0.2s;}
+.common-menu-header .common-header-h3{display: none;transition: all 0.2s;}
+.sino-menu-item, .sino-submenu-title{background: #454e79;border-bottom: 1px solid #505985;color: #babece;height: 45px;line-height: 45px;}
+.sino-menu-item .iconfont{color: #babece;}
+.sino-menu .sino-iconjia{color: #babcc4;}
+.sino-menu-item:hover span{color: #fff;}
+.sino-menu-item:hover .iconfont{color: #babece;}
+.sino-submenu.is-opened .sino-iconjia{transform: rotate(90deg)}
+.sino-menu:before{height: 0;}
+.sino-submenu.is-active .sino-submenu-title{background: #343d61;}
+.sino-submenu.is-active .sino-submenu-title .iconfont:first-child{color: #78a1fe;}
+.sino-submenu.is-active .sino-submenu-title span{color: #fff;}
+.sino-menu{background: #424c72;}
+.sino-submenu .sino-menu .sino-menu-item{background: #3b4468;height: 40px;line-height: 40px;}
+.sino-submenu .sino-menu .sino-menu-item:last-child{border-bottom: 1px solid #505985;}
+.sino-submenu .sino-menu .sino-menu-item span{color: #d4d6dd;}
+.sino-menu-item.is-active{background: #343d61;}
+.sino-menu-item.is-active:after{
+  float: right;
+  content: '';
+  width:0;
+  height:0;
+  border-width:10px 10px 10px 0;
+  border-style:solid;
+  border-color:transparent #ebeff4 transparent transparent;
+  margin:10px auto;
+  position:relative;
+}
+.sino-submenu .sino-menu .sino-menu-item [class^=iconfont]{margin-right: 15px;}
+.sino-submenu .sino-menu .sino-menu-item:hover{background: #3b4468;}
+.sino-submenu .sino-menu .sino-menu-item:hover span{color: #fff;}
+.sino-submenu.is-opened .sino-menu-item.is-active{background: #424c72;}
+.sino-submenu.is-opened .sino-menu-item.is-active span{color: #fff;}
+.sino-submenu [class^=iconfont]{color: #babece;}
+.sino-menu .sino-iconjia{top: 4px;}
+.sino-iconjia:before{content: '\e62d'}
+.sino-submenu.is-opened .iconfont{color: #babece;}
+.sino-submenu .iconfont.sino-jianhao1:before{content: '\E62D';}
+.sino-submenu.is-opened .sino-jianhao1{transform: rotate(90deg);}
+.sino-submenu-title:hover span{color: #fff;}
+.sino-submenu-title:hover .iconfont{color: #babece;}
+.sino-menu{width: 220px;}
+.left-menu-colspan{width: 48px;}
+.left-menu-colspan-div{width: 137%;}
+.app-main{margin-left: 0;}
+// 二级
+.sino-submenu .sino-menu .sino-menu-item.sino-sunmenu-title{height: 40px;line-height: 40px;}
+.sino-menu-collapse .sino-submenu .sino-menu{top:50px;background: #3b4468;}
+.sino-menu-collapse .sino-submenu .sino-menu .sino-menu-item.sino-sunmenu-title{border-bottom: 1px solid #505985;}
+.sino-menu-collapse .sino-submenu .sino-menu .sino-menu-item.is-active{background: #424c72;}
+.sino-menu-collapse .sino-submenu .sino-menu .sino-menu-item:last-child{border-bottom: 0}
+// 头部
+.header-drapDown .sino-dropdown-menu-item.is-task_title{background: #fff;color: #666;height: 36px;line-height: 36px;margin-top: 1px;}
+.header-drapDown .sino-dropdown-menu-item.is-task_title i{display: inline-block;height: 18px;background: #8ec1fe;padding: 0 7px;line-height: 18px;color: #fff;font-size: 12px;border-radius: 4px;margin-left: 5px;}
+.sino-dropdown-menu-item{border-left: 2px solid #fff;}
+.sino-dropdown-menu-item:hover{border-left: 2px solid #6faefb;color: #4a93ef;}
+.sino-dropdown-menu-item:hover a{color: #4a93ef;}
+.task_menu .sino-dropdown-menu-item{background: #f6f8fb;height: 36px;border-bottom: 1px solid #e8eced;line-height: 36px;border-left: 0;}
+.task_menu .sino-dropdown-menu-item:hover{border-left: 0;}
+.task_menu .sino-dropdown-menu-item:last-child{border-bottom: 0;}
+.sino-dropdown-menu{padding-bottom: 0;overflow: hidden;padding-top: 0;}
+.task_name{width:220px;}
+.task_menu .sino-dropdown-menu-item:hover .task_name{color: #4a93ef;}
+.sino-dropdown-menu-item{height: 36px;line-height: 36px;}
+.task_circle{background: #f9a174;margin-top: 15px;}
+.sino-badge-content.is-dot{background: #f9a174;}
+.role_menu{width: 118px;border-radius: 5px;}
+.role_menu .sino-dropdown-menu-item{text-align: left;border-left: 2px solid #fff;padding-left: 19px;border-bottom: 1px solid #e8eced;margin: 0;}
+.role_menu .sino-dropdown-menu-item:hover{background: #fff;border-left: 2px solid #6faefb;}

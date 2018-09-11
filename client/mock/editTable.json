@@ -1,0 +1,142 @@
+{
+  "status":0,
+  "data":{
+    "total":11,
+    "page":1,
+    "pageSize":3,
+    "items":[{
+      "id": 1,
+      "parentId": 0,
+      "name": "员工管理基础服务",
+      "age": "18",
+      "sex": "男",
+      "startDate": "2016-05-02",
+      "endDate": "2020-05-02",
+      "address": "上海市普陀区金沙江路 1518 弄",
+      "selectName":"吃饭",
+      "edit": false,
+      "finishType": false,
+      "editDate": false,
+      "editEndDate": false,
+      "editSelect":false,
+      "children": [
+        {
+          "id": 2,
+          "parentId": 1,
+          "name": "用工协议管理服务",
+          "age": 22,
+          "sex": "男",
+          "startDate": "2016-05-02",
+          "endDate": "2020-05-02",
+          "address": "上海市普陀区金沙江路 1518 弄",
+          "selectName":"吃饭",
+          "edit": false,
+          "finishType": false,
+          "editDate": false,
+          "editSelect":false,
+          "editEndDate": false
+        }
+      ]
+    },
+      {
+        "id": 3,
+        "parentId": 0,
+        "name": "入职体检",
+        "age": 23,
+        "sex": "女",
+        "startDate": "2016-05-02",
+        "endDate": "2020-05-02",
+        "address": "上海市普陀区金沙江路 1518 弄",
+        "selectName":"很好",
+        "edit": false,
+        "finishType": false,
+        "editDate": false,
+        "editEndDate": false,
+        "editSelect":false,
+        "children": [
+          {
+            "id": "4",
+            "parentId": 3,
+            "name": "测试4",
+            "age": 22,
+            "sex": "男",
+            "startDate": "2016-05-02",
+            "endDate": "2020-05-02",
+            "address": "上海市普陀区金沙江路 1518 弄",
+            "selectName":"非常好",
+            "edit": false,
+            "finishType": false,
+            "editDate": false,
+            "editSelect":false,
+            "editEndDate": false
+          },
+          {
+            "id": "5",
+            "parentId": 3,
+            "name": "测试5",
+            "age": 25,
+            "sex": "男",
+            "startDate": "2016-05-02",
+            "endDate": "2020-05-02",
+            "address": "上海市普陀区金沙江路 1518 弄",
+            "selectName":"哈哈",
+            "edit": false,
+            "finishType": false,
+            "editDate": false,
+            "editSelect":false,
+            "editEndDate": false
+          },
+          {
+            "id": "6",
+            "parentId": 3,
+            "name": "测试6",
+            "age": 26,
+            "sex": "女",
+            "startDate": "2016-05-02",
+            "endDate": "2020-05-02",
+            "address": "上海市普陀区金沙江路 1518 弄",
+            "selectName":"爱吃",
+            "edit": false,
+            "finishType": false,
+            "editDate": false,
+            "editEndDate": false,
+            "editSelect":false,
+            "children": [
+              {
+                "id": "",
+                "parentId": 6,
+                "name": "测试7",
+                "age": 27,
+                "sex": "男",
+                "startDate": "2016-05-02",
+                "endDate": "2020-05-02",
+                "address": "上海市普陀区金沙江路 1518 弄",
+                "selectName":"地方",
+                "edit": false,
+                "finishType": false,
+                "editDate": false,
+                "editSelect":false,
+                "editEndDate": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "parentId": 0,
+        "name": "人身意外保险",
+        "age": 18,
+        "sex": "男",
+        "startDate": "2016-05-02",
+        "endDate": "2020-05-02",
+        "address": "上海市普陀区金沙江路 1518 弄",
+        "selectName":"阿萨德",
+        "edit": false,
+        "finishType": false,
+        "editDate": false,
+        "editSelect":false,
+        "editEndDate": false
+      }]
+  }
+}

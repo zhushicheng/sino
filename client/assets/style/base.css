@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* reset */
+blockquote,body,button,code,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,legend,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0;}
+body,th,td,input,select,textarea,h1,h2,h3,h4,i,em,button{font:normal 14px/1 "microsoft yahei",Tahoma, Geneva, sans-serif;}
+body{background-color:#fff;color:#333;}
+table{border-collapse:collapse;border-spacing:0;}
+ul,ol{list-style-type:none;}
+input,select,textarea,button{vertical-align:middle;outline:none;resize:none;border:0;}
+textarea{resize:none;overflow:auto;}
+input::-ms-clear{display:none;}
+a{text-decoration:none;color:#333;}
+img{border:0;vertical-align:middle;}
+/* initial */
+.clearfix:after{content:"";display:block;clear:both;}
+.clearfix{*zoom:1;}
+.fl{float:left;}
+.fr{float:right;}
+.pr{position:relative;}
+.pa{position:absolute;}
+.hide{display:none;}
+.w{width:1190px;margin-left:auto;margin-right:auto;}
+.tc{text-align:center;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #ccc;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+  color: #ccc;
+}
+input::-moz-placeholder, textarea::-moz-placeholder {
+  color: #ccc;
+}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+  color: #ccc;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ placeholder 置灰 */
+  color: #ccc;
+}
+html,body{
+  width:100%;min-width:1024px;background:#f1f5f7;
+  overflow-y: hidden;overflow-x: auto;padding-right:0 !important;
+}
+#app{height: 100%}
+.marbom{margin-bottom: 10px;}
+.bornone{border: none !important;}
+/*滚动条滑块样式*/
+::-webkit-scrollbar
+{
+  width: 10px;
+  height: 10px;
+}
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track
+{
+  border: 0;
+  background-color:#fff;
+}
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  background-color: rgba(212, 212, 212, 0.8);
+}
+/*nprogress*/
+.nprogress-busy .nprogress-container{background-color: rgba(255, 255, 255, 0.9);display: block;}
+.nprogress-container{position: fixed !important;  width: 100%;  height: 100%;  z-index: 112;  display: none;  }
+.nprogress-container #nprogress{width: 69px;height: 69px;}
+.nprogress-container #nprogress .bar{ background: #78bdf6;height: 3px;position: relative;z-index: 9999999;}
+.nprogress-container #nprogress .peg{box-shadow: 0 0 10px #78bdf6, 0 0 5px #78bdf6;}
+.nprogress-container #nprogress .spinner{position: fixed;  left: 50%;  top:35%;  margin-left: 100px;}
+.nprogress-container #nprogress .spinner-icon{border-top-color: #78bdf6;border-left-color: #78bdf6;width: 69px;height: 69px;}
+.nprogress-busy .nprogress-container .spinner-span{position: absolute;color: #399ff2;font-size: 15px;left:-1%;top:126%;}

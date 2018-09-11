@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "label": "华北地区",
+    "children": [
+      {
+        "id": 2,
+        "label": "陕西",
+        "children": []
+      },
+      {
+        "id": 3,
+        "label": "北京",
+        "children": []
+      },
+      {
+        "id": 4,
+        "label": "内蒙古",
+        "children": []
+      },
+      {
+        "id": 5,
+        "label": "河北",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "label": "华东地区",
+    "children": [
+      {
+        "id": 7,
+        "label": "山东",
+        "children": [
+          {
+            "id": 71,
+            "label": "济南",
+            "children": []
+          },
+          {
+            "id": 72,
+            "label": "菏泽",
+            "children": []
+          },
+          {
+            "id": 73,
+            "label": "青岛",
+            "children": []
+          },
+          {
+            "id": 74,
+            "label": "烟台",
+            "children": []
+          },
+          {
+            "id": 75,
+            "label": "威海",
+            "children": []
+          },
+          {
+            "id": 76,
+            "label": "潍坊",
+            "children": []
+          },
+          {
+            "id": 77,
+            "label": "日照",
+            "children": []
+          },
+          {
+            "id": 78,
+            "label": "淄博",
+            "children": []
+          },
+          {
+            "id": 79,
+            "label": "济宁",
+            "children": []
+          },
+          {
+            "id": 80,
+            "label": "枣庄",
+            "children": []
+          },
+          {
+            "id": 81,
+            "label": "德州",
+            "children": []
+          },
+          {
+            "id": 82,
+            "label": "聊城",
+            "children": []
+          },
+          {
+            "id": 83,
+            "label": "泰安",
+            "children": []
+          },
+          {
+            "id": 84,
+            "label": "临沂"
+          },
+          {
+            "id": 85,
+            "label": "滨州"
+          },
+          {
+            "id": 86,
+            "label": "东营"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "label": "江苏",
+        "children": []
+      },
+      {
+        "id": 9,
+        "label": "福建",
+        "children": []
+      },
+      {
+        "id": 10,
+        "label": "浙江",
+        "children": []
+      },
+      {
+        "id": 11,
+        "label": "上海",
+        "children": []
+      },
+      {
+        "id": 12,
+        "label": "安徽",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "label": "华南地区",
+    "children": [
+      {
+        "id": 14,
+        "label": "广东",
+        "children": []
+      },
+      {
+        "id": 15,
+        "label": "广西",
+        "children": []
+      },
+      {
+        "id": 16,
+        "label": "海南",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "label": "华中地区",
+    "children": []
+  },
+  {
+    "id": 18,
+    "label": "西南地区",
+    "children": []
+  },
+  {
+    "id": 19,
+    "label": "西北地区",
+    "children": []
+  },
+  {
+    "id": 20,
+    "label": "东北地区"
+  },
+  {
+    "id": 21,
+    "label": "港澳台地区"
+  }
+]
